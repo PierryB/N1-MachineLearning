@@ -1,5 +1,7 @@
-# N1-MachineLearning
-Desenvolvido em Python utilizando o Iris DataSet e os algoritmos de Machine Learning: KNN e Decision Tree.
+# PROJETO DE MACHINE LEARNING
+Desenvolvido em Python utilizando o Iris DataSet e os algoritmos de Machine Learning: 
+  1. KNN
+  2. Decision Tree
 
-## Pasta Documentos:
+## Pasta "Documentos":
 Contém o arquivo de documentação do projeto nos formatos .docx e .pdf.
